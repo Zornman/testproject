@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<moneyClickerInfo>
+  <UserInfo>
+    <totalCoins>318.296875</totalCoins>
+    <coinsPerClick>82</coinsPerClick>
+    <coinsPerHour>1300</coinsPerHour>
+    <lastLoggedInDateTime>5/18/2018 10:18:01 AM</lastLoggedInDateTime>
+  </UserInfo>
+  <ClickerInfo>
+    <upgradeLevel>
+      <upgradeName>Basic</upgradeName>
+      <addCoinsPerClick>2</addCoinsPerClick>
+      <CostForUpgrade>48.828125</CostForUpgrade>
+      <bought>3</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Basic V2</upgradeName>
+      <addCoinsPerClick>5</addCoinsPerClick>
+      <CostForUpgrade>305.17578125</CostForUpgrade>
+      <bought>5</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Basic V3</upgradeName>
+      <addCoinsPerClick>10</addCoinsPerClick>
+      <CostForUpgrade>1525.87890625</CostForUpgrade>
+      <bought>5</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Advanced V1</upgradeName>
+      <addCoinsPerClick>25</addCoinsPerClick>
+      <CostForUpgrade>5000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Advanced V2</upgradeName>
+      <addCoinsPerClick>50</addCoinsPerClick>
+      <CostForUpgrade>15000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Advanced V3</upgradeName>
+      <addCoinsPerClick>100</addCoinsPerClick>
+      <CostForUpgrade>50000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Epic V1</upgradeName>
+      <addCoinsPerClick>150</addCoinsPerClick>
+      <CostForUpgrade>100000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Epic V2</upgradeName>
+      <addCoinsPerClick>250</addCoinsPerClick>
+      <CostForUpgrade>500000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Epic V3</upgradeName>
+      <addCoinsPerClick>500</addCoinsPerClick>
+      <CostForUpgrade>1000000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+    <upgradeLevel>
+      <upgradeName>Legendary</upgradeName>
+      <addCoinsPerClick>1000</addCoinsPerClick>
+      <CostForUpgrade>1000000000</CostForUpgrade>
+      <bought>0</bought>
+    </upgradeLevel>
+  </ClickerInfo>
+  <PropertyInfo>
+    <propertyLevel>
+      <upgradeName>Studio Apartment</upgradeName>
+      <addCoinsPerHour>50</addCoinsPerHour>
+      <costForUpgrade>1000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>Home w/ Office</upgradeName>
+      <addCoinsPerHour>100</addCoinsPerHour>
+      <costForUpgrade>10000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>Small Office</upgradeName>
+      <addCoinsPerHour>200</addCoinsPerHour>
+      <costForUpgrade>100000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>Corporate Office</upgradeName>
+      <addCoinsPerHour>500</addCoinsPerHour>
+      <costForUpgrade>500000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>Business Park</upgradeName>
+      <addCoinsPerHour>1000</addCoinsPerHour>
+      <costForUpgrade>1000000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>City</upgradeName>
+      <addCoinsPerHour>2500</addCoinsPerHour>
+      <costForUpgrade>100000000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>State</upgradeName>
+      <addCoinsPerHour>5000</addCoinsPerHour>
+      <costForUpgrade>1000000000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>Country</upgradeName>
+      <addCoinsPerHour>10000</addCoinsPerHour>
+      <costForUpgrade>5000000000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>World</upgradeName>
+      <addCoinsPerHour>25000</addCoinsPerHour>
+      <costForUpgrade>10000000000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+    <propertyLevel>
+      <upgradeName>Galaxy</upgradeName>
+      <addCoinsPerHour>50000</addCoinsPerHour>
+      <costForUpgrade>15000000000</costForUpgrade>
+      <bought>0</bought>
+    </propertyLevel>
+  </PropertyInfo>
+</moneyClickerInfo>
